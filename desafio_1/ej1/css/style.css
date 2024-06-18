@@ -1,0 +1,68 @@
+/* Font Museo */
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:ital,wght@0,100..900;1,100..900&display=swap');
+/* Font Asap */
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,100..900;1,100..900&family=MuseoModerno:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #edf7ff;
+    position: absolute;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {
+    position: relative;
+    width: 34%;
+    height: auto;
+    border-top: 25px solid #809aed;
+    border: 0.5px solid black;
+    padding: 45px;
+}
+
+header {
+    font-family: "MuseoModerno", sans-serif;
+    margin: 0;
+}
+
+header h1 {
+    font-size: 117px;
+    color: #0a2ff1;
+    margin: 0;
+}
+
+header p {
+    font-family: "Asap", sans-serif;
+    font-size: 52px;
+    color: #0a2ff1;
+    margin: 0;
+}
+
+section {
+    font-family: "Asap", sans-serif;
+}
+
+section p {
+    font-size: 33px;
+    color: #04146c;
+    
+}
+
+section ul {
+    font-family: "Asap", sans-serif;
+    font-size: 25pt;
+    color: #04146c;
+    margin: 0;
+
+}
+
+footer {
+
+    width: 100%;
+    font-family: "MuseoModerno", sans-serif;
+    font-style: inherit;
+    font-size: 149pt;
+    color: #8a9af1;
+    margin: 0;
+
+}
